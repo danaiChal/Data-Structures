@@ -153,6 +153,7 @@ ifstream myfile2 ("ale.us");
   }
   else cout << "Unable to open file";
 return 0;
+/*mfksg*/
 }
 
 
